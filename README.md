@@ -34,4 +34,5 @@ The findings are described in the notebook and my Medium post.
 
 Licensing, Authors, Acknowledgements
 
-The credit of the data belongs to Stack Overflow - there you can also find the Licensing and the data itself. For my code: Feel free to use it.
+The credit of the data belongs to Stack Overflow - there you can also find the Licensing and the data itself https://www.kaggle.com/stackoverflow/so-survey-2017/
+For my code: Feel free to use it.
