@@ -2,7 +2,7 @@
 
 This project is part of the Data Scientist Nanodegree from Udacity.
 
-Installation
+## Installation
 
 The project was done with Python 3.6.3. The following packages are used:
 numpy
@@ -11,7 +11,7 @@ matplotlib
 collections
 seaborn
 
-Project Motivation
+## Project Motivation
 
 The project motivation was to get some insights in software developement as a carreer. What should you bring and what to concentrate on when wanting to get hired. The data was taken from Stack Overflow.
 The following questions were asked:
@@ -23,14 +23,14 @@ The following questions were asked:
     How to find a job in software developement? What strategies and ways led to success for the survey participants?
     What sites are most commonly used by software developers to put their profile/CV on for job hunt?
 
-File Descriptions
+## File Descriptions
 
 The following Jupyter notebook includes the complete analysis and detailed descriptions:
 Project 1 - Analysis of Stack Overflow Data.ipynb
 
-Results
+## Results
 
-The findings are described in the notebook and my Medium post: https://medium.com/@franziska.braunschneider/thinking-about-a-career-in-software-developement-lets-find-out-what-it-takes-ad8d563ad87c 
+The findings are described in the notebook and my Medium post.
 
 Licensing, Authors, Acknowledgements
 
